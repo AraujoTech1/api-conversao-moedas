@@ -3,7 +3,7 @@
 
 ## Descrição do Projeto
 
-A **API de Conversão de Moedas** é uma aplicação desenvolvida com Python e FastAPI, que permite converter valores entre diferentes moedas de maneira simples, rápida e eficiente. Seu principal objetivo é facilitar integrações com sistemas que necessitam de valores convertidos em tempo real, sendo útil para desenvolvedores, estudantes e sistemas de simulação.
+O projeto é uma aplicação desenvolvida com Python e FastAPI, que permite converter valores entre diferentes moedas de maneira simples, rápida e eficiente. Seu principal objetivo é facilitar integrações com sistemas que necessitam de valores convertidos em tempo real, sendo útil para desenvolvedores, estudantes e sistemas de simulação.
 
 ### Funcionalidades do Projeto
 
