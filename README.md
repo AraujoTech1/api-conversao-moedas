@@ -1,6 +1,6 @@
 <h1 align="center">💱 API de Conversão de Moedas</h1>
 
-### Descrição do Projeto
+## Descrição do Projeto
 
 A **API de Conversão de Moedas** é uma aplicação desenvolvida com Python e FastAPI, que permite converter valores entre diferentes moedas de maneira simples, rápida e eficiente.  
 
@@ -13,7 +13,7 @@ Seu principal objetivo é facilitar integrações com sistemas que necessitam de
 - ✅ Validação automática de parâmetros
 - ✅ Retorno estruturado em JSON
 
-### Testes de Software
+## Testes de Software
 
 Foram realizados os seguintes testes:
 
@@ -25,25 +25,25 @@ Foram realizados os seguintes testes:
   - Exemplo: `GET /converter?valor=abc&de=USD&para=BRL`
   - ✅ API retorna erro 422 com validação clara
 
-### Tecnologias e Linguagens Utilizadas
+## Tecnologias e Linguagens Utilizadas
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Framework-blue?logo=fastapi&logoColor=blue)
 ![JSON](https://img.shields.io/badge/JSON-Format-blue?logo=json&logoColor=blue)
 
-### Bibliotecas e Frameworks
+## Bibliotecas e Frameworks
 
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-ASGI-blue?logo=uvicorn)
 ![Pydantic](https://img.shields.io/badge/Pydantic-Validation-blue?logo=python)
 
-### Documentação Oficial
+## Documentação Oficial
 
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [Uvicorn](https://www.uvicorn.org/)
 - [Pydantic](https://docs.pydantic.dev/)
 - [Swagger UI](https://swagger.io/tools/swagger-ui/)
 
-### Licença
+## Licença
 
 Este projeto está sob a Licença MIT.  
 
