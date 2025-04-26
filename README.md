@@ -17,12 +17,12 @@ O projeto é uma aplicação desenvolvida com Python e FastAPI, que permite conv
 Foram realizados os seguintes testes:
 
 - **Teste de funcionamento da rota `/converter`**:
-  - `GET /converter?valor=100&de=USD&para=BRL`
-    - Resultado esperado: conversão correta com status 200
+`GET /converter?valor=100&de=USD&para=BRL`
+Resultado esperado: conversão correta com status 200
 - **Teste de depuração**:
-  - Envio de parâmetros inválidos para verificar mensagens de erro da API
-  - Exemplo: `GET /converter?valor=abc&de=USD&para=BRL`
-    - Resultado esperado: API retorna erro 422 com validação clara
+Envio de parâmetros inválidos para verificar mensagens de erro da API
+Exemplo: `GET /converter?valor=abc&de=USD&para=BRL`
+Resultado esperado: API retorna erro 422 com validação clara
 
 ## Tecnologias e Linguagens Utilizadas
 
